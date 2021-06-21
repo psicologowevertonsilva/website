@@ -1,0 +1,6 @@
+/* ========= INFORMATION ============================
+- author:    Dmytro Lobov
+- url:       https://wow-estore.com
+- email:     givememoney1982@gmail.com
+==================================================== */
+.fl-vertical li:nth-child(1) .flBtn-fab { background-color: #000000; color: #ffffff; } .fl-vertical li:nth-child(1) .flBtn-fab:hover { background-color: #0c5100; color: #ffffff; } .flBtn-fab { background-color: #000000; color: #fff; } .flBtn-fab:hover { background-color: #1c5100; color: #fff; } [tooltip]:before { background: #000000; color: #ffffff; }
