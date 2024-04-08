@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.wevertonsilva.me/sitemap.xml
+Sitemap: https://wevertonsilva.me/sitemap.xml
